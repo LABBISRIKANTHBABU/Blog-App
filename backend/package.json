@@ -1,5 +1,5 @@
 {
-    "name": "blog-app-backend",
+    "name": "blog-app",
     "version": "1.0.0",
     "description": "Backend for Blog Application",
     "main": "server.js",
